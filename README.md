@@ -7,4 +7,4 @@ I am an offical DogeHouse contributor since I made the accent of the swiss germa
 
 ![Tablecord](https://namespace.media/img/images/2021/04/07/msedge_VH2SEuB6dC.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=all)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=20)

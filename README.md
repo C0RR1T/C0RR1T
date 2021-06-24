@@ -14,7 +14,7 @@ I like to code in TypeScript because of the "freedom" you have. I also like to c
 
 # Technologies
 
-## Technologies I learned / currently learning
+## Technologies I used
 <ul>
   <li>React</li>
   <li>Spring Boot</li>

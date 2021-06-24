@@ -7,7 +7,7 @@ I've used some programming languages as listed:
   <li>Java</li>
   <li>Typescript / JavaScript</li>
   <li>SQL</li>
-  <li>Rust (no real experience</li>
+  <li>Rust (no real experience)</li>
   <li>Haskell (I've used it but I have no experience in it)</li>
 </ul>
 I like to code in TypeScript because of the "freedom" you have. I also like to code in Java, but only if I use it together with Spring Boot. 

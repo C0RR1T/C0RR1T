@@ -32,7 +32,7 @@ I like to code in TypeScript because of the "freedom" you have. I also like to c
 # Some Stats
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver-was-taken&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=C0RR1T&show_icons=true&theme=tokyonight)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=5)

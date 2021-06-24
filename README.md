@@ -1,10 +1,38 @@
-# Welcome to my Page
-Im C0RR1T, I live in Switzerland and Im a IT apprentice. I like to code in Java, however I have some experience in React, SQL and TypeScript. I dont like Bootstrap (I hate everything design related (I have no idea what I'm doing (No, seriously, I don't))).
+# Hello everyone 👋
+My name is Corsin, I live in Switzerland and I like everything software related. Im currently an apprentice.
+I have alot of Repos that are not finished or not even started. I will start developing ![PepeChat](https://github.com/C0RR1T/PepeChat) when I have enough experience in Spring Boot. Im more of a backend guy, so I really don't like anything design related (CSS, Bootstrap, Sass (Sass > CSS)). I've been a DogeHouse contributer, but unfortunately, the project has been stopped.  
+# Used Languages
+I've used some programming languages as listed:
+<ul>
+  <li>Java</li>
+  <li>Typescript / JavaScript</li>
+  <li>SQL</li>
+  <li>Rust (no real experience</li>
+  <li>Haskell (I've used it but I have no experience in it)</li>
+</ul>
+I like to code in TypeScript because of the "freedom" you have. I also like to code in Java, but only if I use it together with Spring Boot. 
 
-I am an offical DogeHouse contributor since I made the accent of the swiss german file a bit more understandable.  
-(Bern hät en hässliche Dialekt, sorry Bern).
+# Technologies
 
+## Technologies I learned / currently learning
+<ul>
+  <li>React</li>
+  <li>Spring Boot</li>
+  <li>MySQL / MariaDB</li>
+  <li>PostgresSQL</li>
+</ul>
 
-![Tablecord](https://namespace.media/img/images/2021/04/07/msedge_VH2SEuB6dC.png)
+## Technologies I want to work with / learn
+<ul>
+  <li>Graph Database</li>
+  <li>Rust</li>
+  <li>React</li>
+</ul>
 
+# Some Stats
+
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=10)
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=C0RR1T)

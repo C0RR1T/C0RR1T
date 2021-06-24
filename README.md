@@ -14,7 +14,7 @@ I like to code in TypeScript because of the "freedom" you have. I also like to c
 
 # Technologies
 
-## Technologies I used
+Technologies I used:
 <ul>
   <li>React</li>
   <li>Spring Boot</li>
@@ -22,7 +22,7 @@ I like to code in TypeScript because of the "freedom" you have. I also like to c
   <li>PostgresSQL</li>
 </ul>
 
-## Technologies I want to work with / learn
+Technologies I want to work with / learn:
 <ul>
   <li>Graph Database</li>
   <li>Rust</li>

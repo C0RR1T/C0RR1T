@@ -35,7 +35,7 @@ Technologies I want to work with / learn:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=C0RR1T&show_icons=true&theme=tokyonight)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=10)
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=C0RR1T)

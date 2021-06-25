@@ -31,6 +31,8 @@ Technologies I want to work with / learn:
 
 # Some Stats
 
+And here are some stats that are cool so I integrated them here
+
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=C0RR1T&show_icons=true&theme=tokyonight)
 
@@ -39,3 +41,7 @@ Technologies I want to work with / learn:
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=C0RR1T)
+
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=C0RR1T&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+

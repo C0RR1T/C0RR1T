@@ -13,7 +13,7 @@ I've used some programming languages as listed:
 I like to code in TypeScript because of the "freedom" you have. I also like to code in Java, but only if I use it together with Spring Boot. 
 
 I have a meme that describes me pretty well (thanks @Nilstrieb):
-[](https://cdn.discordapp.com/attachments/753159354378879056/867817430359998494/RDT_20210722_1916316156062184734209889.jpg)
+![grafik](https://user-images.githubusercontent.com/74185591/126684586-d2142a8d-f6b4-49ff-8a1b-a4699f510442.png)
 
 # Technologies
 

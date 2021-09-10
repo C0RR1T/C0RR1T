@@ -12,8 +12,8 @@ I've used some programming languages as listed:
 </ul>
 I like to code in TypeScript because of the "freedom" you have. I also like to code in Java, but only if I use it together with Spring Boot. 
 
-I have a meme that describes me pretty well (thanks [nils](https://github.com/Nilstrieb)):
-<img src="https://user-images.githubusercontent.com/74185591/126684586-d2142a8d-f6b4-49ff-8a1b-a4699f510442.png" width="150"/>
+I have a meme that describes me pretty well (thanks [nils](https://github.com/Nilstrieb)): \
+<img src="https://user-images.githubusercontent.com/74185591/126684586-d2142a8d-f6b4-49ff-8a1b-a4699f510442.png" width="300"/>
 
 # Technologies
 

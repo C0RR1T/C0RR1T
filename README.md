@@ -1,6 +1,6 @@
 # Hello everyone 👋
 My name is Corsin, I live in Switzerland and I like everything software related. Im currently an apprentice.
-I have alot of Repos that are not finished or not even started. I will start developing ![PepeChat](https://github.com/C0RR1T/PepeChat) when I have enough experience in Spring Boot. Im more of a backend guy, so I really don't like anything design related (CSS, Bootstrap, Sass (Sass > CSS)). I've been a DogeHouse contributer, but unfortunately, the project has been stopped.  
+Im currently developing the (Wisliger Casino)[https://github.com/wisliger-casino]. Im more of a backend guy, so I really don't like anything design related (CSS, Bootstrap, Sass (Sass > CSS)). I've been a DogeHouse contributer, but unfortunately, the project has been stopped.  
 # Used Languages
 I've used some programming languages as listed:
 <ul>

@@ -28,8 +28,10 @@ Technologies I used:
 Technologies I want to work with / learn:
 <ul>
   <li>Graph Database</li>
-  <li>Rust</li>
-  <li>React</li>
+  <li>Redis</li>
+  <li><a href="https://github.com/actix/actix-web">Actix web</a></li>
+  <li><a href="https://github.com/serenity-rs/serenity">Serenity</a></li>
+  <li><a href="https://github.com/vercel/next.js">Next (with Typescript)</a>
 </ul>
 
 # Some Stats

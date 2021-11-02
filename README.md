@@ -43,7 +43,7 @@ And here are some stats that are cool so I integrated them here
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=C0RR1T&show_icons=true&theme=tokyonight)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0RR1T&theme=tokyonight&langs_count=3)
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=C0RR1T)

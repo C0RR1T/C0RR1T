@@ -7,7 +7,7 @@ I've used some programming languages as listed:
   <li>Java</li>
   <li>Typescript / JavaScript</li>
   <li>SQL</li>
-  <li>Rust (no real experience)</li>
+  <li>Rust</li>
   <li>Haskell (I've used it but I have no experience in it)</li>
 </ul>
 I like to code in TypeScript because of the "freedom" you have. I also like to code in Java, but only if I use it together with Spring Boot. 
@@ -32,6 +32,7 @@ Technologies I want to work with / learn:
   <li><a href="https://github.com/actix/actix-web">Actix web</a></li>
   <li><a href="https://github.com/serenity-rs/serenity">Serenity</a></li>
   <li><a href="https://github.com/vercel/next.js">Next (with Typescript)</a>
+  <li>Linux</li>
 </ul>
 
 # Some Stats
